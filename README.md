@@ -8,7 +8,7 @@ This project recreates a professional retail analytics dashboard for the Adventu
 
 ## 📊 Dashboard Preview
 
-> _Add your dashboard screenshots or demo video/GIF here._
+
 
 | Executive | Map | Product Detail | Customer Detail |
 |-----------|-----|----------------|-----------------|
