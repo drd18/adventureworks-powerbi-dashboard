@@ -123,7 +123,7 @@ Cleaning at the source layer — not just in the BI tool — keeps the model rel
 
 Built by **Della** — transitioning into data analytics with a background in Food Science & Technology. This project demonstrates end-to-end ownership of an analytics workflow, from raw data to a polished, interactive product.
 
-- 🔗 Portfolio: _[(https://drive.google.com/file/d/1qb5p6y8_gDfU7ku81kTmvm9_PBPE-OBV/view?usp=sharing)]_
+- 🔗 Portfolio: _[https://drive.google.com/file/d/1qb5p6y8_gDfU7ku81kTmvm9_PBPE-OBV/view?usp=sharing]_
 - 💼 LinkedIn: _[https://www.linkedin.com/in/della-rahmadani00/]_
 - 📧 dellarahmadani343@gmail.com
 
